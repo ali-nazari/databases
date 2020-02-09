@@ -1,3 +1,14 @@
+### **Index:**
+- [Course Overview](#Course-Overview)
+- [TextBooks](#TextBooks)
+- [Slides and Papers](#Slides-and-Papers)
+
+- [Class Time and Location](#Class-Time-and-Location)
+
+
+## <a name="Class-Time-and-Location"></a>Class Time and Location:
+Sunday and Tuesday 15:30-17:00 PM (Spring 2020), Room 203. 
+
 # <a name="Grading"></a>Grading:
 
 Endterm – 60% </br>
