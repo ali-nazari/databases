@@ -1,4 +1,4 @@
-Grading:
+# <a name="Grading"></a>Grading:
 
 Homework –15% 
 Midterm – 25%
