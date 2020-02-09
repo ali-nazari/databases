@@ -30,7 +30,7 @@ Homework and quiz –15%  </br>
 Final Project - 5% </br>
 
 ### <a name="Two-Written-Exams"></a>Two Written Exams:
-Midterm Examination: Tuesday 1399/02/16, 13:00-14:30<br/>
+Midterm Examination: Tuesday 1399/02/16, 15:30-17:00 PM<br/>
 Final Examination: Tuesday 1399/03/ <br/>
 
 ## <a name="Questions"></a>Questions?
