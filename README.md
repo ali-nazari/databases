@@ -34,4 +34,6 @@ Midterm Examination: Tuesday 1399/02/16, 15:30-17:00 PM<br/>
 Final Examination: Tuesday 1399/03/ <br/>
 
 ## <a name="Questions"></a>Questions?
-I will be having office hours for this course on Tuesday (13:30 PM--15:30 PM). If this is not convenient, email me at al_nazari@sbu.ac.ir or talk to me after class. 
+You can meet me on Tuesday (13:30 PM--15:30 PM).
+If It is not appropriate for you, email me at al_nazari@sbu.ac.ir or talk to me after class. 
+
