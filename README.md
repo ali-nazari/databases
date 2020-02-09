@@ -5,6 +5,19 @@
 
 - [Class Time and Location](#Class-Time-and-Location)
 
+## <a name="Course-Overview"></a>Course Overview:
+```javascript
+Introduction to Database Systems and Design
+```
+## <a name="TextBooks"></a>TextBooks:
+
+```
+Main TextBooks:
+```
+* [An Introduction to Database Systems, By C.J. Date, 8th Edition, 2003]()
+* [Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015]()
+* [Database Systems, By T. Connolly and C. Begg, 6th Edition, 2014]()
+* [Database System Concepts, By A. Silberschartz, H.F. Korth and S. Sudarshan, 6th Edition, 2010]()
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 15:30-17:00 PM (Spring 2020), Room 203. 
