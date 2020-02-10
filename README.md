@@ -35,11 +35,8 @@ Main TextBooks:
 Additional Resources:
 ```
 
-## <a name="Slides-and-Papers"></a>Slides and Papers:
-
-Recommended Slides & Papers:
-1. ### <a name="Part-1"></a>
-  Course: [Full Database Course of Stanford](https://lagunita.stanford.edu)
+## <a name="slides"></a>Recommended Courses and Slides:
+1. ### <a name="Part-1"/> [Full Database Course of Stanford](https://lagunita.stanford.edu) by Jennifer Widom
   This course comprises 14 mini courses from 'Introduction', 'Relational Design Theory', 'online Analytical Processing' to 'Recursion in SQL'.
   
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
