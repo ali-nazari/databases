@@ -35,6 +35,13 @@ Main TextBooks:
 Additional Resources:
 ```
 
+## <a name="Slides-and-Papers"></a>Slides and Papers:
+
+Recommended Slides & Papers:
+1. ### <a name="Part-1"></a>
+  Course: [Full Database Course of Stanford](https://lagunita.stanford.edu)
+  This course comprises 14 mini courses from 'Introduction', 'Relational Design Theory', 'online Analytical Processing' to 'Recursion in SQL'.
+  
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 15:30-17:00 PM (Spring 2020), Room 203. 
 
