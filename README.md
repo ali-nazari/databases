@@ -30,14 +30,16 @@ Main TextBooks:
 * [Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779)
 * [Database Systems: A Practical Approach to Design, Implementation, and Management (6th Edition)](https://www.amazon.com/Database-Systems-Practical-Implementation-Management/dp/0132943263) by By T. Connolly and C. Begg, 2014
 * [Database System Concepts, By A. Silberschartz, H.F. Korth and S. Sudarshan, 6th Edition, 2010](https://www.amazon.com/Database-Concepts-Abraham-Silberschatz-Professor/dp/0073523321)
+* [Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html)
 
 ```
 Additional Resources:
 ```
 
 ## <a name="slides"></a>Recommended Courses and Slides:
-1. ### <a name="Part-1"/> [Full Database Course of Stanford](https://lagunita.stanford.edu) by Jennifer Widom
+1. [Full Database Course of Stanford](https://lagunita.stanford.edu) by Jennifer Widom
   This course comprises 14 mini courses from 'Introduction', 'Relational Design Theory', 'online Analytical Processing' to 'Recursion in SQL'.
+ 
   
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 15:30-17:00 PM (Spring 2020), Room 203. 
