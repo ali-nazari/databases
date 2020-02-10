@@ -26,10 +26,14 @@ If we have time, we will discuss ORM (like Hibernate), XQuery and NoSQL.
 ```
 Main TextBooks:
 ```
-* [An Introduction to Database Systems, By C.J. Date, 8th Edition, 2003]()
-* [Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015]()
-* [Database Systems, By T. Connolly and C. Begg, 6th Edition, 2014]()
-* [Database System Concepts, By A. Silberschartz, H.F. Korth and S. Sudarshan, 6th Edition, 2010]()
+* [An Introduction to Database Systems, By C.J. Date, 8th Edition, 2003](https://www.amazon.com/Introduction-Database-Systems-8th/dp/0321197844)
+* [Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779)
+* [Database Systems: A Practical Approach to Design, Implementation, and Management (6th Edition)](https://www.amazon.com/Database-Systems-Practical-Implementation-Management/dp/0132943263) by By T. Connolly and C. Begg, 2014
+* [Database System Concepts, By A. Silberschartz, H.F. Korth and S. Sudarshan, 6th Edition, 2010](https://www.amazon.com/Database-Concepts-Abraham-Silberschatz-Professor/dp/0073523321)
+
+```
+Additional Resources:
+```
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 15:30-17:00 PM (Spring 2020), Room 203. 
