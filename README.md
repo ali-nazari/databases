@@ -53,10 +53,10 @@ Sunday and Tuesday 15:30-17:00 PM (Spring 2020), Room 203.
 
 # <a name="Grading"></a>Grading:
 
-Endterm – 55% </br>
-Midterm – 25% </br>
+Final Exam –55% </br>
+Midterm Exam –25% </br>
 Homework and quiz –10%  </br>
-Final Project - 10% </br>
+Final Project -10% </br>
 
 ### <a name="Two-Written-Exams"></a>Two Written Exams:
 Midterm Examination: Tuesday 1399/02/16, 15:30-17:00 PM<br/>
