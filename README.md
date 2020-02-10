@@ -30,7 +30,7 @@ Main TextBooks:
 * [Fundamental of Database Systems, By R. Elmasri, 7th Edition, 2015](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779)
 * [Database Systems: A Practical Approach to Design, Implementation, and Management (6th Edition)](https://www.amazon.com/Database-Systems-Practical-Implementation-Management/dp/0132943263) by By T. Connolly and C. Begg, 2014
 * [Database System Concepts, By A. Silberschartz, H.F. Korth and S. Sudarshan, 6th Edition, 2010](https://www.amazon.com/Database-Concepts-Abraham-Silberschatz-Professor/dp/0073523321)
-* [Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html)
+* [Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html) by by Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom, 2008.
 
 ```
 Additional Resources:
