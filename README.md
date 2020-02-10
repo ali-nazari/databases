@@ -9,7 +9,7 @@
 ```javascript
 Database is a substantial core of every system. In this course, fundamental concepts 
 of Database and DBMS will be to taught.
-Main purpose is all students learn how to design and implement every systam. 
+Main purpose is all students learn how to design and implement the data tier of every system. 
 If we have time, we will discuss ORM (like Hibernate), XQuery and NoSQL.
 ```
 ## <a name="TextBooks"></a>TextBooks:
