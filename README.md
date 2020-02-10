@@ -7,7 +7,8 @@
 
 ## <a name="Course-Overview"></a>Course Overview:
 ```javascript
-Introduction to Database Systems and Design
+Database is a substantial core of every system. In this course, fundamental concepts of DB and DBMS will be to taught.
+Main purpose is all students learn how to design and implement every systam. If we have time, we will discuss ORM (like Hibernate), XQuery and NoSQL.
 ```
 ## <a name="TextBooks"></a>TextBooks:
 
