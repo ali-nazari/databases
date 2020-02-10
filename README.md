@@ -40,7 +40,14 @@ Additional Resources:
 1. [Full Database Course of Stanford](https://lagunita.stanford.edu) by Jennifer Widom
   This course comprises 14 mini courses from 'Introduction', 'Relational Design Theory', 'online Analytical Processing' to 'Recursion in SQL'.
  
-  
+ ## <a name='syllabus' />Syllabus
+ 1. An Overview of Database Management
+ 2. Database System Architecture
+ 3. An Introduction to Relational Databases
+ 4. An Introduction to SQL
+ 5. Relational Model: Relational Algebra, Relational Calculus
+ 6. Database Design: Functional Dependencies, Normalization
+ 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 15:30-17:00 PM (Spring 2020), Room 203. 
 
