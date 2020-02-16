@@ -68,3 +68,8 @@ Final Examination: Tuesday 1399/03/ <br/>
 You can meet me on Tuesday (13:30 PM--15:30 PM).
 If It is not appropriate for you, email me at al_nazari@sbu.ac.ir or talk to me after class. 
 
+## <a name="additional_resources"></a>
+```javascript
+Additional Resources
+```
+[Comparison Google Cloud Bigtable vs. Microsoft Access](https://db-engines.com/en/system/Google+Cloud+Bigtable%3BMicrosoft+Access)
