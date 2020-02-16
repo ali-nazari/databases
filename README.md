@@ -77,4 +77,14 @@ Additional Resources
 -[Comparison Google Cloud Bigtable vs. Microsoft Access](https://db-engines.com/en/system/Google+Cloud+Bigtable%3BMicrosoft+Access)<br/>
 -[Trend of Google Cloud Bigtable vs. Microsoft Access Popularity](https://db-engines.com/en/ranking_trend/system/Google+Cloud+Bigtable%3BMicrosoft+Access)<br/>
 -[Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)<br/>
+-[Spanner, the Google Database That Mastered Time, Is Now Open to Everyone](https://www.wired.com/2017/02/spanner-google-database-harnessed-time-now-open-everyone/)
+
+## What is [CockroachDB?](https://github.com/cockroachdb/cockroach)
+
+CockroachDB is a distributed SQL database built on a transactional and
+strongly-consistent key-value store. It **scales** horizontally;
+**survives** disk, machine, rack, and even datacenter failures with
+minimal latency disruption and no manual intervention; supports
+**strongly-consistent** ACID transactions; and provides a familiar
+**SQL** API for structuring, manipulating, and querying data.
 
