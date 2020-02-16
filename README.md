@@ -39,7 +39,9 @@ Additional Resources:
 ## <a name="slides"></a>Recommended Courses and Slides:
 1. [Full Database Course of Stanford](https://lagunita.stanford.edu) by Jennifer Widom
   This course comprises 14 mini courses from 'Introduction', 'Relational Design Theory', 'online Analytical Processing' to 'Recursion in SQL'.
- 
+  
+2. [Book: Database System Concepts](https://www.db-book.com/db7/slides-dir/) Seventh Edition, 2020 7 by Avi Silberschatz, Henry F. Korth, S. Sudarshan. You can download its slides freely.
+  
  ## <a name='syllabus' />Syllabus
  1. An Overview of Database Management
  2. Database System Architecture
