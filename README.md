@@ -19,7 +19,7 @@ If we have time, we will discuss ORM (like Hibernate), XQuery and NoSQL.
     <td class="tg-0lax"><img src="images/cjdate.jpg" alt="" border='3' height='160' width='170' /></td>
     <td class="tg-0lax"><img src="images/elmasri.jpg" alt="" border='3' height='160' width='170' /></td>
     <td class="tg-0lax"><img src="images/connolly.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src="images/silberschatz.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="images/db7.jpg" alt="" border='3' height='160' width='170' /></td>
   </tr>
 </table>
 
