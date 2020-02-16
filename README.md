@@ -72,8 +72,8 @@ If It is not appropriate for you, email me at al_nazari@sbu.ac.ir or talk to me 
 ```javascript
 Additional Resources
 ```
-[Rank of Databases based on popularity](https://db-engines.com/en/ranking)
-[Comparison Google Cloud Bigtable vs. Microsoft Access](https://db-engines.com/en/system/Google+Cloud+Bigtable%3BMicrosoft+Access)
-[Trend of Google Cloud Bigtable vs. Microsoft Access Popularity](https://db-engines.com/en/ranking_trend/system/Google+Cloud+Bigtable%3BMicrosoft+Access)
-[Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)
+-[Rank of Databases based on popularity](https://db-engines.com/en/ranking)<br/>
+-[Comparison Google Cloud Bigtable vs. Microsoft Access](https://db-engines.com/en/system/Google+Cloud+Bigtable%3BMicrosoft+Access)<br/>
+-[Trend of Google Cloud Bigtable vs. Microsoft Access Popularity](https://db-engines.com/en/ranking_trend/system/Google+Cloud+Bigtable%3BMicrosoft+Access)<br/>
+-[Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)<br/>
 
