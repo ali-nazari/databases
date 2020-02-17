@@ -73,6 +73,10 @@ If It is not appropriate for you, email me at al_nazari@sbu.ac.ir or talk to me 
 ```javascript
 Additional Resources
 ```
+## <a name="advanced_courses"></a>Advanced DB Courses
+[Modern Database Concepts](https://www.ksi.mff.cuni.cz/~svoboda/courses/191-NDBI040/)<br/>
+
+## <a name="advanced_courses"></a>Good Articles to read
 -[Rank of Databases based on popularity](https://db-engines.com/en/ranking)<br/>
 -[Comparison Google Cloud Bigtable vs. Microsoft Access](https://db-engines.com/en/system/Google+Cloud+Bigtable%3BMicrosoft+Access)<br/>
 -[Trend of Google Cloud Bigtable vs. Microsoft Access Popularity](https://db-engines.com/en/ranking_trend/system/Google+Cloud+Bigtable%3BMicrosoft+Access)<br/>
