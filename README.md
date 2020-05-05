@@ -49,7 +49,10 @@ Additional Resources:
  3. An Introduction to Relational Databases
  4. Data Modeling, ER (Entity Relationship), NIAM, UML 
  5. An Introduction to SQL
- 6. Relational Model: Relational Algebra, Relational Calculus
+ 6. Relational Data Model: 
+      I. Data structure: tables. 
+      II. Data integrity: primary key rule(C1), foreign key rule(C2) and business rules. 
+      III. Data manipulation: (Relational Algebra, Relational Calculus).
  7. Database Design: Functional Dependencies, Normalization
  
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
