@@ -50,9 +50,9 @@ Additional Resources:
  4. Data Modeling, ER (Entity Relationship), NIAM, UML 
  5. An Introduction to SQL
  6. Relational Data Model: 
-      <br/><t/>I. Data structure: tables. 
-      <br/><t/>II. Data integrity: primary key rule(C1), foreign key rule(C2) and business rules. 
-      <br/>III. Data manipulation: (Relational Algebra, Relational Calculus).
+      <br/><t/>I. Data structure: Relation, Domain. 
+      <br/><t/>II. Data integrity: Primary key rule(C1 Integrity Rule), Foreign key rule(C2  Integrity Rule) and Business Rules. 
+      <br/><t/>III. Data manipulation: (Relational Algebra, Relational Calculus).
  7. Database Design: Functional Dependencies, Normalization
  
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
