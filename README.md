@@ -1,9 +1,10 @@
 ### **Index:**
 - [Course Overview](#Course-Overview)
 - [TextBooks](#TextBooks)
-- [Slides and Papers](#Slides-and-Papers)
-
+- [Recommended Courses and Slides](#slides)
+- [Syllabus](#syllabus)
 - [Class Time and Location](#Class-Time-and-Location)
+- [Good Materials to read](#good_materials)
 
 ## <a name="Course-Overview"></a>Course Overview:
 ```javascript
@@ -62,7 +63,7 @@ Homework and quiz –10%  </br>
 Final Project -10% </br>
 
 ### <a name="Two-Written-Exams"></a>Two Written Exams:
-Midterm Examination: Tuesday 1399/02/16, 15:30-17:00 PM<br/>
+Midterm Examination: Tuesday 1399/02/23, 15:45-16:15 PM, This exam will be hold online in the SBU courseware<br/>
 Final Examination: Tuesday 1399/03/ <br/>
 
 ## <a name="Questions"></a>Questions?
