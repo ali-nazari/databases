@@ -9,7 +9,7 @@
 ## <a name="Course-Overview"></a>Course Overview:
 ```javascript
 Database is a substantial core of every system. In this course, fundamental concepts 
-of Database and DBMS will be to taught.
+of Databases and RDBMS will be to taught.
 Main purpose is all students learn how to design and implement the data tier of every system. 
 If we have time, we will discuss ORM (like Hibernate), XQuery and NoSQL.
 ```
@@ -78,11 +78,10 @@ Additional Resources
 [Modern Database Concepts](https://www.ksi.mff.cuni.cz/~svoboda/courses/191-NDBI040/)<br/>
 
 ## <a name="good_materials"></a>Good Materials to read
--[relational algebra calculator](http://dbis-uibk.github.io/relax/index.htm) This site is very useful for those who want to learn relational algerbra<br/>
--[Tutorial for creating clustered indexes in MS SQL Server](https://www.sqlservertutorial.net/sql-server-indexes/sql-server-clustered-indexes/)
--[Tutorial for creating nonclustered indexes in MS SQL Server](https://www.sqlservertutorial.net/sql-server-indexes/sql-server-create-index/)
- 
--[Rank of Databases based on popularity](https://db-engines.com/en/ranking)<br/>
+-[Relational Algebra calculator](http://dbis-uibk.github.io/relax/index.htm) This site is very useful for those who want to learn relational algerbra<br/>
+-[Tutorial for creating clustered indexes in MS SQL Server](https://www.sqlservertutorial.net/sql-server-indexes/sql-server-clustered-indexes/)<br/>
+-[Tutorial for creating nonclustered indexes in MS SQL Server](https://www.sqlservertutorial.net/sql-server-indexes/sql-server-create-index/)<br/>
+ -[Rank of Databases based on popularity](https://db-engines.com/en/ranking)<br/>
 -[Comparison Google Cloud Bigtable vs. Microsoft Access](https://db-engines.com/en/system/Google+Cloud+Bigtable%3BMicrosoft+Access)<br/>
 -[Trend of Google Cloud Bigtable vs. Microsoft Access Popularity](https://db-engines.com/en/ranking_trend/system/Google+Cloud+Bigtable%3BMicrosoft+Access)<br/>
 -[Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)<br/>
